@@ -26,5 +26,6 @@ le format des taches est le suivant :
     date: 15616481156156
 }]
 
+Pour charger le fichier télecharger directement l'archive et initialiser un projet VueJs.
 
 <!-- Jour 1 avec VueJS | par Eric Lorryl SOBZE | Tuto Grafikart -->
